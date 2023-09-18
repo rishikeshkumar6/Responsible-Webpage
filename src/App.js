@@ -1,5 +1,4 @@
 import './App.css';
-import ContactForm from './components/Molecules/Form/Form';
 import Footer from './components/Orgnism/Footer/Footer';
 import Plans from './components/Orgnism/Plans/Plans';
 import Programs from './components/Orgnism/Programs/Programs';
@@ -14,7 +13,6 @@ function App() {
        <Reasons/>
        <Plans/>
        <Testimonials/>
-       <ContactForm/>
        <Footer/>
       
     </div>
